@@ -1,12 +1,11 @@
 ##Olá, eu sou Jeferson Oliveira
-- 🔭 Buscando emprego na área
-- 🌱 Estudante de programação
-- 😄 Pronouns: 
+- 🔭 Em busca de oportunidades
+- 🌱 Estudante de programação 
 - ⚡ Proativo e extremamente motivado
 
 <div align="center">
-  <a href="https://github.com/Jefitoifto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefitoifto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefitoifto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ##

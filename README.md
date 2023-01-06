@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
   <img align="center" alt="Jef-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Jef-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Jef-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="https://photos.google.com/u/2/photo/AF1QipMSz_tn5DOZ7VEKuD5fK2R2_lXbw6HRY6VgEvSJ">
+  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="download20230104172040.png">
 </div>
 
 ##

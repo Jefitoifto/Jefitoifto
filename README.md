@@ -1,5 +1,6 @@
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+<h2> Seja bem vindo ao meu perfil!</h2>
+  <h3>Meu nome é Jeferson Oliveira</h3>
 </div>
 
 <div align="center">

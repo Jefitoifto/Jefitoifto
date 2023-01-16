@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/Jefitoifto">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Jefitoifto&theme=midnight-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
+  <img height="179em" src="https://streak-stats.demolab.com?user=Jefitoifto&theme=midnight-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
     <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jefitoifto?cardType=github&theme=midnight-purple"/>
 </div>
 
